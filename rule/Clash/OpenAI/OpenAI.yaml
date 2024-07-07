@@ -9,6 +9,7 @@
 # IP-CIDR: 2
 # TOTAL: 36
 payload:
+  - DOMAIN,^.*webpubsub/.azure/.com
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,gemini.google.com
